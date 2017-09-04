@@ -2,9 +2,9 @@ package night_is_here;
 
 public class Main {
     public static void main(String[] args) {
-        JohnSnow johnSnow = new JohnSnow(100,
+        JohnSnow johnSnow = new JohnSnow(150,
                 15,
-                8,
+                12,
                 56,
                 true);
         KingOfNight kingOfNight = new KingOfNight(1000,
@@ -28,7 +28,7 @@ public class Main {
                 15,
                 true);
         Tirion tirion = new Tirion(10,
-                1,
+                100,
                 1,
                 2,
                 true);
